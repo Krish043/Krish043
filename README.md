@@ -3,7 +3,7 @@
 
 ## About Me 🏆
 
-🔹 **Full Stack Web Developer at [Clezid Pvt Ltd]([https://www.linkedin.com/company/clezid-pvt-ltd/](https://www.linkedin.com/company/clezid/))** - Building scalable, high-performance applications.  
+🔹 **Full Stack Web Developer at [Clezid Pvt Ltd]((https://www.linkedin.com/company/clezid/))** - Building scalable, high-performance applications.  
 🔹 **Freelancer** – Crafting custom web solutions for businesses and clients worldwide.  
 🔹 **Ex-Full Stack Developer at [Nexus Info](https://www.linkedin.com/company/nexus-info/)** – Worked on dynamic web applications.  
 🔹 **AI Model Trainer at [Outlier AI](https://www.linkedin.com/company/outlier-ai/)** – Enhancing AI models through training and optimization.  
