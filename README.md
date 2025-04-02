@@ -51,7 +51,8 @@
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/your-profile)
 [![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:your-email@gmail.com)
-[![Fiverr](https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-fiverr-social-media-those-icons-flat-those-icons.png)](https://www.fiverr.com/krish_043)
+[![Fiverr](https://img.icons8.com/fluency/48/000000/fiverr.png)](https://www.fiverr.com/krish_043)
+
 
 </div>
 
