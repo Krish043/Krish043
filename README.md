@@ -1,37 +1,56 @@
-# Hi 👋! My name is Krish and I'm a Full Stack Developer from India! 
+## Hi there, I'm Krish! 👋
 
-## 🚀 About Me
-- 🔭 I’m currently working on Web Development & DSA
-- 🌱 I’m currently learning Next.js & System Design
-- 📫 How to reach me: [LinkedIn](your-linkedin-url) | [Instagram](your-instagram-url) | [Gmail](mailto:your-email@gmail.com)
+🚀 **Expert in MERN Stack & Next.js** | Full Stack Developer | Open Source Enthusiast
 
 ---
 
-## 📊 My GitHub Stats
-![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krish043&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish043&layout=compact&theme=radical)
+### 📌 About Me
+- **B.Tech CSE, Nirma University (Pre-final year)**
+- **Summer Intern at Crest Data Systems**
+- **Executive Committee Member - Computer Society of India (CSI)**
+- **Freelancer (Available for projects beyond Fiverr)**
+- **Researcher: Published paper on ML-driven ERP Prediction for Logistics**
+- **Passionate about Web Development & DSA**
 
 ---
 
-## 🛠️ Tech Stack
-### Languages:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### Frameworks & Libraries:
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+### 🛠️ Tech Stack & Tools
+<p align="left">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="ReactJS"/>
+    <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="ExpressJS"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png" alt="TailwindCSS"/>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"/>
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+    <img src="https://img.icons8.com/color/48/ffffff/nextjs.png" alt="Next.js"/>
+    <img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png" alt="GitHub"/>
+    <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress"/>
+    <img src="https://img.icons8.com/?size=45&id=cQfKnWABsKk9&format=png&color=ffffff" alt="Wix"/>
+    <img src="https://img.icons8.com/color/48/000000/webflow.png" alt="Webflow"/>
+</p>
 
 ---
 
-## 📫 Contact Me:
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-url)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](your-whatsapp-url)
+### 📊 GitHub Stats
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
+
+---
+
+### 🌍 Connect with Me
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/your-linkedin-profile)
+[![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:your-email@example.com)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://instagram.com/your-instagram)
+[![Portfolio](https://img.icons8.com/external-flaticons-flat-flat-icons/48/000000/external-portfolio-digital-marketing-flaticons-flat-flat-icons-2.png)](your-portfolio-link)
+
+---
+
+🔹 **I accept freelance projects from anywhere, not just Fiverr!**
+
+💡 *Let's build something amazing together!* 🚀
