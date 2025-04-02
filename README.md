@@ -5,6 +5,7 @@
 
 🔹 **Freelancer** – Crafting custom web solutions for businesses and clients worldwide.  
 🔹 **Summer Intern at [Crest Data Systems](https://www.linkedin.com/company/crest-data/)** – Strengthening my industry expertise. 
+
 🔹 **AI Model Trainer at [Outlier AI](https://www.linkedin.com/company/try-outlier/)** – Enhancing AI models through training and optimization.  
 🔹 **Full Stack Web Developer at [Clezid Pvt Ltd](https://www.linkedin.com/company/clezid/)** - Building scalable, high-performance applications.  
 🔹 **Ex-Full Stack Developer at [Nexus Info](https://www.linkedin.com/company/nexus-software-pvt-ltd/)** – Worked on dynamic web applications.  
