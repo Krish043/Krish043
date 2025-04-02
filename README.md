@@ -19,15 +19,25 @@
 ## 🌐 Tech Stack & Tools
 <div align="center">
   
-  ![ReactJS](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png)
+ ![ReactJS](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png)
   ![NextJS](https://img.icons8.com/color/48/ffffff/nextjs.png)
   ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)
   ![ExpressJS](https://img.icons8.com/fluency/48/000000/node-js.png)
   ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
   ![TailwindCSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png)
+  ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+  ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
+  ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
   ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
+  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
+  ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
+  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
   ![GitHub](https://img.icons8.com/glyph-neue/48/ffffff/github.png)
-
+  ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)
+  ![Wix](https://img.icons8.com/?size=45&id=cQfKnWABsKk9&format=png&color=ffffff)
+  ![Webflow](https://img.icons8.com/color/48/000000/webflow.png)
+ 
 </div>
 
 ## 📈 GitHub Stats
