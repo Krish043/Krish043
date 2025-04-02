@@ -8,8 +8,8 @@
 ---
 
 ## 📊 My GitHub Stats
-![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krish043&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish043&layout=compact&theme=radical)
 
 ---
 
