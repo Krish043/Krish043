@@ -3,7 +3,7 @@
 
 ## About Me 🏆
 
-🔹 **Freelancer** – Crafting custom web solutions for businesses and clients worldwide.  
+🔹 **Freelancer** – Crafting custom web solutions for businesses and clients.  
 🔹 **Summer Intern at [Crest Data Systems](https://www.linkedin.com/company/crest-data/)** – Strengthening my industry expertise. 
 
 🔹 **AI Model Trainer at [Outlier AI](https://www.linkedin.com/company/try-outlier/)** – Enhancing AI models through training and optimization.  
