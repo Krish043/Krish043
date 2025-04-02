@@ -29,8 +29,6 @@
   ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
   ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
   ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
-  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
-  ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
   ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
   ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
   ![GitHub](https://img.icons8.com/glyph-neue/48/ffffff/github.png)
