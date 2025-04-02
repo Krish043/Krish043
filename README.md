@@ -11,8 +11,8 @@
 🔹 **Ex-Full Stack Developer at [Nexus Info](https://www.linkedin.com/company/nexus-software-pvt-ltd/)** – Worked on dynamic web applications.  
 
 🎉 **🏆 Hackathon Achievements:**  
-- **🥇 HackNUthon 6.0 Winner** – Built an innovative learning platform (**FinShield** repository).  
-- **🥇 Accathon 2.0 Winner** – Engineered a cutting-edge finance-based project (**TaxMate** repository).  
+- **🥇 HackNUthon 6.0 Winner** – Built financial Fraud and Suspicious activity detection platform (**FinShield** repository).  
+- **🥇 Accathon 2.0 Winner** – Engineered a cutting-edge gst-reconciliation project (**TaxMate** repository).  
 
 💡 Passionate about **MERN Stack, Next.js, and problem-solving**, I turn ideas into reality with seamless UI/UX and scalable backend solutions.  
 
