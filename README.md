@@ -3,14 +3,15 @@
 
 ## About Me 🏆
 
-🔹 **Full Stack Web Developer at [Clezid Pvt Ltd](#)** - Building scalable, high-performance applications.  
+🔹 **Full Stack Web Developer at [Clezid Pvt Ltd]([https://www.linkedin.com/company/clezid-pvt-ltd/](https://www.linkedin.com/company/clezid/))** - Building scalable, high-performance applications.  
 🔹 **Freelancer** – Crafting custom web solutions for businesses and clients worldwide.  
-🔹 **Ex-Full Stack Developer at [Nexus Info](#)** – Worked on dynamic web applications.  
-🔹 **Summer Intern at [Crest Data Systems](#)** – Will be strengthening my industry expertise.  
+🔹 **Ex-Full Stack Developer at [Nexus Info](https://www.linkedin.com/company/nexus-info/)** – Worked on dynamic web applications.  
+🔹 **AI Model Trainer at [Outlier AI](https://www.linkedin.com/company/outlier-ai/)** – Enhancing AI models through training and optimization.  
+🔹 **Summer Intern at [Crest Data Systems](https://www.linkedin.com/company/crest-data-systems/)** – Strengthening my industry expertise.  
 
 🎉 **🏆 Hackathon Achievements:**  
-- **🥇 HackNUthon 6.0 Winner** – Built an innovative learning platform.  
-- **🥇 Accathon 2.0 Winner** – Engineered a cutting-edge finance-based project.  
+- **🥇 HackNUthon 6.0 Winner** – Built an innovative learning platform (**FinShield** repository).  
+- **🥇 Accathon 2.0 Winner** – Engineered a cutting-edge finance-based project (**TaxMate** repository).  
 
 💡 Passionate about **MERN Stack, Next.js, and problem-solving**, I turn ideas into reality with seamless UI/UX and scalable backend solutions.  
 
