@@ -46,15 +46,8 @@
 
 </div>
 
-## 📬 Connect With Me
-<div align="center">
-
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:your-email@gmail.com)
-[![Fiverr](https://img.icons8.com/fluency/48/000000/fiverr.png)](https://www.fiverr.com/krish_043)
-
-
-</div>
+📬 Connect With Me
+<div align="center"> <a href="https://linkedin.com/in/your-profile" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> &nbsp; <a href="mailto:your-email@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> &nbsp; <a href="https://www.fiverr.com/krish_043" target="_blank"> <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/> </a> </div>
 
 ### 🤝 Let's Build Something Awesome Together!  
 💌 Open to collaborations, freelance work, and exciting projects. Feel free to reach out! 🚀
