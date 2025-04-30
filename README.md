@@ -1,14 +1,14 @@
 # 🚀 Full Stack Web Developer | Freelancer
-🌟 2x Hackathon Winner | MERN Stack & Next.js Specialist  
+🌟 2x Hackathon Winner | MERN Stack & Next.js   
 
 ## About Me 🏆
 
 🔹 **Freelancer** – Crafting custom web solutions for businesses and clients.  
-🔹 **Summer Intern at [Crest Data Systems](https://www.linkedin.com/company/crest-data/)** – Strengthening my industry expertise. 
+🔹 **SDE intern in R&D department at [Crest Data Systems](https://www.linkedin.com/company/crest-data/)** – Strengthening my industry expertise. 
 
-🔹 **AI Model Trainer at [Outlier AI](https://www.linkedin.com/company/try-outlier/)** – Enhancing AI models through training and optimization.  
-🔹 **Full Stack Web Developer at [Clezid Pvt Ltd](https://www.linkedin.com/company/clezid/)** - Building scalable, high-performance applications.  
+🔹 **Ex-Full Stack Web Developer at [Clezid Pvt Ltd](https://www.linkedin.com/company/clezid/)** - Building scalable, high-performance applications.  
 🔹 **Ex-Full Stack Developer at [Nexus Info](https://www.linkedin.com/company/nexus-software-pvt-ltd/)** – Worked on dynamic web applications.  
+🔹 **AI Model Trainer at [Outlier AI](https://www.linkedin.com/company/try-outlier/)** – Enhancing AI models through training and optimization.  
 
 🎉 **🏆 Hackathon Achievements:**  
 - **🥇 HackNUthon 6.0 Winner** – Built financial Fraud and Suspicious activity detection platform (**FinShield** repository).  
