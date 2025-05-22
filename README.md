@@ -25,7 +25,7 @@
   ![ExpressJS](https://img.icons8.com/fluency/48/000000/node-js.png)
   ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
   ![TailwindCSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png)
-  ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+  ![Python](https://img.icons8.com/color/48/000000/python.png)
   ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
   ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
   ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
