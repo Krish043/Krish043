@@ -1,5 +1,5 @@
 # 🚀 Full Stack Web Developer | Freelancer
-🌟 2x Hackathon Winner | MERN Stack & Next.js   
+🌟 MERN Stack & Next.js | 2x Hackathon Winner 
 
 ## About Me 🏆
 
@@ -47,7 +47,24 @@
 </div>
 
 📬 Connect With Me
-<div align="center"> <a href="https://linkedin.com/in/krish-gangajaliya-802b79266/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> &nbsp; <a href="mailto:krishgangajaliya1@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> &nbsp; <a href="https://www.fiverr.com/krish_043" target="_blank"> <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/> </a> </div>
+<div align="center"> 
+  <a href="https://linkedin.com/in/krish-gangajaliya-802b79266/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+  </a> &nbsp;
+  
+  <a href="mailto:krishgangajaliya1@gmail.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> 
+  </a> &nbsp; 
+  
+  <a href="https://www.fiverr.com/krish_043" target="_blank"> 
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/> 
+  </a> &nbsp;
+
+  <a href="https://www.instagram.com/krrish_145" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
 
 ### 🤝 Let's Build Something Awesome Together!  
 💌 Open to collaborations, freelance work, and exciting projects. Feel free to reach out! 🚀
