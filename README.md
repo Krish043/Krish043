@@ -11,6 +11,7 @@
 🔹 **AI Model Trainer at [Outlier AI](https://www.linkedin.com/company/try-outlier/)** – Enhancing AI models through training and optimization.  
 
 🎉 **🏆 Hackathon Achievements:**  
+- **🥇 Odoo Hackathon Runners up** – Built versatile sports booking platform with facilities management. 
 - **🥇 HackNUthon 6.0 Winner** – Built financial Fraud and Suspicious activity detection platform (**FinShield** repository).  
 - **🥇 Accathon 2.0 Winner** – Engineered a cutting-edge gst-reconciliation project (**TaxMate** repository).  
 
